@@ -71,6 +71,7 @@ Plain text: 0x0
 
 Encrypt process with
 Key = 0x40000000000000000000000000000000
+
 Plain Text = 0x0
 
 1. 0x3ac991fc1e4754bd
@@ -81,12 +82,14 @@ Plain Text = 0x0
 6. 0x31be23dbd82c2540
 7. 0x13073edefc1cf35c
 8. 0xbc942eaaf4fbb5ae
+
 Cipher text: 0xbc942eaaf4fbb5ae
 
 Decrypt process with
 Key = 0x40000000000000000000000000000000
+
 Cipher text: 0xbc942eaaf4fbb5ae
-DECRYPT
+
 1. 0xe21bda808d41a87c
 2. 0x587f436143b9f3d4
 3. 0x2d77876165ddfbf5
@@ -95,4 +98,5 @@ DECRYPT
 6. 0x8090a0b0c0d0e0f
 7. 0x7cb92c876bfc5666
 8. 0x0
+
 Plain text: 0x0

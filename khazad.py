@@ -135,11 +135,9 @@ def encrypt(RKey: list, a: int) -> int:
 
 
 def decrypt(RKey: list, a: int) -> int:
-    print("DECRYPT")
     st = KeyAdd(RKey[8], a)
     for i in range(7, 0, -1):
         temp = RFunc(Diffu(RKey[i]), st)
-        print(hex(temp))
         st = temp
     return KeyAdd(RKey[0], NonLi(st))
 

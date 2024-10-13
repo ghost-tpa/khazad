@@ -1,5 +1,5 @@
 # khazad
-Khazad block cipher cryptosystem implementation in python3 and test vectors (pure implementation for studying not using LUTs)
+Khazad block cipher cryptosystem implementation in python3 and test vectors (pure implementation for learning not using LUTs)
 
 Non linear layer
 1. 0xbbada7ace1bcdd97 -> 0xca4f0005d59f16c4
